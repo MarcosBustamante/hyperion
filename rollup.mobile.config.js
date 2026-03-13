@@ -48,7 +48,7 @@ export default defineConfig({
         "hyperion-react/src/index",
       ],
       "hyperionMobileReactNative": [
-        "hyperion-react-native/src/ALComponentPropPublisher",
+        "hyperion-react-native/src/ALReactComponentProps",
         "hyperion-react-native/src/ALSurfacePublisher",
         "hyperion-react-native/src/AutoLogging",
         "hyperion-react-native/src/index",
